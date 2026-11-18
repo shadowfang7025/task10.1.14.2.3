@@ -1,2 +1,2 @@
-def foo():
+def fighters():
     pass
